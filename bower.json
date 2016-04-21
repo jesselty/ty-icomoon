@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-sass",
+  "moduleType": "globals",
+  "main": [
+    "style.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "lib",
+    "tasks",
+    "templates",
+    "test",
+    "*.gemspec",
+    "Rakefile",
+    "Gemfile"
+  ],
+  "version": "0.0.0"
+}
+
