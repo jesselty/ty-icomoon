@@ -2,7 +2,7 @@
   "name": "bootstrap-sass",
   "moduleType": "globals",
   "main": [
-    "style.css"
+    "style.scss"
   ],
   "license": "MIT",
   "ignore": [
