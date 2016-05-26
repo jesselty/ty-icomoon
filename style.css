@@ -185,4 +185,6 @@
 .icon-linkedin:before {
     content: "\e906";
 }
-
+.icon-info_outline:before {
+    content: "\e88f";
+}
