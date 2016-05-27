@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-sass",
+  "name": "ty-icomoon",
   "moduleType": "globals",
   "main": [
     "style.scss"
