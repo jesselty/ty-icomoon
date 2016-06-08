@@ -2,7 +2,11 @@
   "name": "ty-icomoon",
   "moduleType": "globals",
   "main": [
-    "style.scss"
+    "style.scss",
+    "fonts/icomoon.eot",
+    "fonts/icomoon.svg",
+    "fonts/icomoon.ttf",
+    "fonts/icomoon.woff"
   ],
   "license": "MIT",
   "ignore": [
