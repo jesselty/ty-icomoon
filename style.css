@@ -258,6 +258,13 @@
     content: "\e92f";
 }
 
+.icon-inr {
+    -webkit-transform: scale(0.8,0.9);
+    -ms-transform: scale(0.8,0.9);
+    -o-transform: scale(0.8,0.9);
+    transform: scale(0.8,0.9);
+}
+
 .icon-inr:before {
     content: "\e91c";
 }
