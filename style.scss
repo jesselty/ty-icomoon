@@ -259,10 +259,10 @@
 }
 
 .icon-inr {
-    -webkit-transform: scale(0.8,0.9);
-    -ms-transform: scale(0.8,0.9);
-    -o-transform: scale(0.8,0.9);
-    transform: scale(0.8,0.9);
+    -webkit-transform: scale(0.8, 0.9);
+    -ms-transform: scale(0.8, 0.9);
+    -o-transform: scale(0.8, 0.9);
+    transform: scale(0.8, 0.9);
 }
 
 .icon-inr:before {
@@ -432,3 +432,10 @@
     content: "\e94c";
 }
 
+.icon-user-name:before {
+    content: "\e94e";
+}
+
+.icon-no-of-persons:before {
+    content: "\e94d";
+}
