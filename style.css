@@ -439,3 +439,19 @@
 .icon-no-of-persons:before {
     content: "\e94d";
 }
+
+.icon-thumbs-down-filled:before {
+    content: "\e94f";
+}
+
+.icon-thumbs-down-line:before {
+    content: "\e950";
+}
+
+.icon-thumbs-up-filled:before {
+    content: "\e951";
+}
+
+.icon-thumbs-up-line:before {
+    content: "\e952";
+}
