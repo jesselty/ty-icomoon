@@ -211,6 +211,13 @@
     content: "\e5c5";
 }
 
+.icon-class {
+    -webkit-transform: scale(0.9, 0.9);
+    -ms-transform: scale(0.9, 0.9);
+    -o-transform: scale(0.9, 0.9);
+    transform: scale(0.9, 0.9);
+}
+
 .icon-class:before {
     content: "\e86e";
 }
@@ -241,6 +248,13 @@
 
 .icon-menu:before {
     content: "\e5d2";
+}
+
+.icon-more {
+    -webkit-transform: scale(0.9, 0.9);
+    -ms-transform: scale(0.9, 0.9);
+    -o-transform: scale(0.9, 0.9);
+    transform: scale(0.9, 0.9);
 }
 
 .icon-more:before {
@@ -298,6 +312,13 @@
 
 .icon-instagram:before {
     content: "\e904";
+}
+
+.icon-blogger {
+    -webkit-transform: scale(0.8, 0.8);
+    -ms-transform: scale(0.8, 0.8);
+    -o-transform: scale(0.8, 0.8);
+    transform: scale(0.8, 0.8);
 }
 
 .icon-blogger:before {
