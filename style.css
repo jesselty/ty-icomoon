@@ -516,3 +516,7 @@
 .icon-price-low-to-high:before {
     content: "\e95b";
 }
+
+.icon-amenities:before {
+  content: "\e95e";
+}
