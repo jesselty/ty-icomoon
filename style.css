@@ -672,3 +672,60 @@
 .icon-keyboard_arrow_up:before {
     content: "\e316";
 }
+
+.icon-mticket .path1:before {
+    content: "\e98b";
+    color: rgb(89, 89, 91);
+}
+
+.icon-mticket .path2:before {
+    content: "\e98c";
+    margin-left: -1em;
+    color: rgb(89, 89, 91);
+}
+
+.icon-mticket .path3:before {
+    content: "\e98d";
+    margin-left: -1em;
+    color: rgb(89, 89, 91);
+}
+
+.icon-mticket .path4:before {
+    content: "\e98e";
+    margin-left: -1em;
+    color: rgb(89, 89, 91);
+}
+
+.icon-mticket .path5:before {
+    content: "\e98f";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+
+.icon-vomitingbag:before {
+    content: "\e984";
+}
+
+.icon-novel:before {
+    content: "\e985";
+}
+
+.icon-plugpoint:before {
+    content: "\e986";
+}
+
+.icon-centraltv:before {
+    content: "\e987";
+}
+
+.icon-firstaid:before {
+    content: "\e988";
+}
+
+.icon-readinglamp:before {
+    content: "\e989";
+}
+
+.icon-securitycam:before {
+    content: "\e98a";
+}
