@@ -737,3 +737,11 @@
 .icon-newspaper:before {
     content: "\e993";
 }
+
+.icon-mobile:before {
+    content: "\e991";
+}
+
+.icon-blanket:before {
+    content: "\e990";
+}
